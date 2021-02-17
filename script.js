@@ -2,7 +2,7 @@ const empty = "";
 const uCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const lCase = "abcdefghijklmnopqrstuvwxyz";
 const number = "0123456789";
-const empty = "*&^%$#@!()=+-_";
+const symbol = "*&^%$#@!()=+-_";
 
 const pLength = document.getElementById("p-length");
 const upperCase = document.getElementById("p-uppercase");
@@ -15,7 +15,7 @@ const password = document.getElementById("password");
 submit.addEventListener("click", () => {
     let initialPassword = empty;
     (upperCase.checked) ? initialPassword += uCase : "";
-    (lowere.checked) ? initialPassword += lCase : "";
+    (lowerCase.checked) ? initialPassword += lCase : "";
     (pNumber.checked) ? initialPassword += number : "";
     (pSymbol.checked) ? initialPassword += symbol : "";
 
@@ -24,7 +24,7 @@ submit.addEventListener("click", () => {
 
 function generatePassword(l, initialPassword) {
     let pass = "";
-    for (let i = 0; i < l; i++){
+    for (let i = 0; i < l; i++) {
         pass += initialPassword.charAt(Math.floor(Math.random() * initialPassword.length));
     }
     return pass;
