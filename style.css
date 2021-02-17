@@ -12,11 +12,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 100vh;
     
   }
 
   .container {
-      background-color: purple;
+      background-color: #BA55D3;
       padding: 20px;
       border-radius: 5px;
       width: 370px;
