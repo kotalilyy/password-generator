@@ -1,0 +1,1 @@
+alert("Let's generate your password!");
