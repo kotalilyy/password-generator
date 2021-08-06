@@ -4,7 +4,7 @@ Use this Password Generator to generate a random password for you!
 
 ## Live Link
 
-https://kotalilyy.github.io/JavaScript-password-generator/
+[Live Link](https://kotalilyy.github.io/JavaScript-password-generator/)
 
 
 ## Screenshot 
@@ -13,5 +13,7 @@ https://kotalilyy.github.io/JavaScript-password-generator/
 
 
 ## Contributions
+
+Followed this [Tutorial](https://www.youtube.com/watch?v=MW1wz-PAOaE)
 
 Made with ❤️ By Dakota Nelson
