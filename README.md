@@ -14,6 +14,6 @@ Use this Password Generator to generate a random password for you!
 
 ## Contributions
 
-Followed this [Tutorial](https://www.youtube.com/watch?v=MW1wz-PAOaE)
+Followed this [Tutorial](https://kotalilyy.github.io/password-generator/)
 
 Made with ❤️ By Dakota Nelson
