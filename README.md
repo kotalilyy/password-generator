@@ -4,7 +4,7 @@ Use this Password Generator to generate a random password for you.
 
 ## Live Link
 
-[Live Link](https://kotalilyy.github.io/password-generator/)
+[live link](https://kotalilyy.github.io/password-generator/)
 
 
 ## Screenshot 
