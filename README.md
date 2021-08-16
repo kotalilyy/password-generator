@@ -1,6 +1,6 @@
 # JavaScript Password Generator
 
-Use this Password Generator to generate a random password for you! 
+Use this Password Generator to generate a random password for you.
 
 ## Live Link
 
@@ -9,7 +9,7 @@ Use this Password Generator to generate a random password for you!
 
 ## Screenshot 
 
-<img width="576" alt="Screen Shot 2021-02-17 at 7 12 22 AM" src="https://user-images.githubusercontent.com/77229281/108209210-a6a11000-70ef-11eb-94b4-975241fee683.png">
+<img width="460" alt="passwrd" src="https://user-images.githubusercontent.com/77229281/129641630-34d1debe-2067-4d33-8fd4-ca4232e42884.png">
 
 
 ## Contributions
